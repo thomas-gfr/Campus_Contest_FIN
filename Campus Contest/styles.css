@@ -1,0 +1,746 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 50px;
+
+    display: block;
+}
+.coeur{
+    margin: 0px auto;
+    width: 80%;
+    text-align: justify;
+    display: flex;
+}
+.back{
+    background-image:url(Image/1-14241_wallpaper-photos-beautiful-ocean-wallpapers-for-desktop.jpg);
+    height: 430px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    vertical-align: bottom;
+}
+.presentation{
+    width: 80%;
+    margin: 0px auto;
+    color: white;
+    height: 350px;
+    padding-top: 50px;
+}
+.presentation h1{
+    margin: 0px;
+    font-family: 'Luckiest Guy',cursive;
+}
+.presentation p{
+    color: white;
+    font-size: 25px;
+    margin: 0px;
+    font-family: 'Baloo',cursive;
+}
+.photo{
+    width: 150px;
+}
+.blue2{
+    background-image: url(Image/Powder\ Blue\ Winter\ Desktop\ Wallpaper.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+}
+.txt{
+    width: 495px;
+    padding-top: 80px;
+}
+.logo2{
+    width: 300px;
+    height: 300px;
+    margin: 120px 0px 0px 40%;
+}
+.txt h2{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Luckiest Guy',cursive;
+}
+.txt span{
+    font-size: 20px;
+    font-family: 'Playfair Display',sans-serif;
+}
+.bouton{
+    text-align: center;
+}
+.btn1{
+    width: 150px;
+    height: 60px;
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 25px;
+    margin: 30px 30px; 
+    background-color: white;
+    border: solid 2px #2660C8;
+    border-radius: 30px; 
+}
+.coeur2{
+    margin: 0px auto;
+}
+.reco{
+    text-align: center;
+}
+.reco h3{
+    font-size: 30px;
+    font-family: 'Luckiest Guy',cursive;
+    margin:0px 60px; 
+    padding-bottom: 30px;
+}
+.bot{
+    height: 150px;
+    color: white;
+    background-color: black;
+}
+.logo3{
+    width: 130px;
+    height: 130px;
+    float: right;
+    padding-top: 10px;
+}
+.foot{
+    width: 70%;
+    margin: 0px auto;
+}
+.cont{
+    padding-top: 40px;
+    font-family: 'Open Sans',sans-serif;
+}
+.foot p{
+    margin-top: 5px;
+    font-family: 'Playfair Display', sans-serif;
+    line-height: 25px;
+}
+.skills{
+    background-image: url(Image/1-14241_wallpaper-photos-beautiful-ocean-wallpapers-for-desktop.jpg);
+    height: 70px;
+    background-size: cover;
+    background-position: top;
+    text-align: center;
+}
+.skills h1{
+    line-height: 70px;
+    font-family: 'Playfair Display';
+    font-size: 32px;
+    color: white;
+    font-weight: normal;
+}
+.gigablock2{
+    width: 70%;
+    margin: 20px auto;   
+    box-shadow: inset 0 0 1em white, 0 0 2em gray;
+}
+.finale{
+    width: 70%;
+    margin: 20px auto;   
+    box-shadow: inset 0 0 1em white, 0 0 2em gray;
+}
+.forma{
+    height: 200px;
+    margin: 0px auto;
+}
+.forma3{
+    height: 200px;
+    margin: 0px auto;
+}
+.forma p{
+    margin-left: 2%;
+}
+.forma3 p{
+    margin-left: 2%;
+}
+.forma4 p{
+    margin-right: 2%;
+}
+.forma h1{
+    color: rgb(121, 186, 233);
+    font-family: 'OpenSans',sans-serif;
+    font-size: 30px;
+    margin: 0px;
+    margin-left: 2%;
+    padding-top: 30px;
+}
+.forma h2{
+    color: rgb(121, 186, 233);
+    font-family: 'OpenSans',sans-serif;
+    font-size: 30px;
+    margin: 0px;
+    margin-left: 2%;
+    padding-top: 0px;
+}
+.forma3 h4{
+    color: #8B7554;
+    font-family: 'OpenSans',sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 20px;
+    margin-left: 2%;
+} 
+.forma i{
+    margin-left: 2%;
+}
+.forma3 h5{
+    color: #415E6F;
+    font-family: 'OpenSans',sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px;
+    margin-left: 2%;
+}
+.forma4 h4{
+    color: #8B7554;
+    font-family: 'OpenSans',sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 20px;
+    margin-right: 2%;
+}
+.forma4 h5{
+    color: #415E6F;
+    font-family: 'OpenSans',sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px;
+    margin-right: 2%;
+}
+.ca{
+    height: 150px;
+    width: 400px;
+    float: right;
+    margin-top: -120px;
+    margin-right: 2%;
+    border: Black 1px solid;
+    border-radius: 10px;
+}
+.FD{
+    height: 150px;
+    width: 400px;
+    float: left;
+    margin-top: -120px;
+    border: Black 1px solid;
+    border-radius: 10px;
+    margin-left: 2%
+}
+#pp{
+    margin-bottom: 0px;
+}
+.exp{
+    height: 170px;
+    width: 320px;
+    float: right;
+    margin-right: 20px;
+    border: Black 1px solid;
+    margin-top: -120px;
+    border-radius: 10px;
+}
+.exp1{
+    height: 170px;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+    margin-top: -140px;
+    border: Black 1px solid;
+    border-radius: 10px;
+}
+#oo{
+    height: 170px;
+    width: 320px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -120px;
+    border-radius: 10px;
+}
+#oo1{
+    margin-left: 20px;
+    height: 170px;
+    width: 200px;
+    float: left;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.forma2{
+    height: 200px;
+    margin: 0px auto ;
+    text-align: right;
+}
+.forma4{
+    height: 200px;
+    margin: 0px auto ;
+    text-align: right;
+}
+.forma2 h1{
+    color: rgb(121, 186, 233);
+    font-family: 'OpenSans',sans-serif;
+    font-size: 30px;
+    margin: 0px;
+    margin-right: 2%;
+}
+.forma2 p{
+    margin-right: 2%;
+}
+.forma2 i{
+    margin-right: 2%;
+}
+.forma2 h2{
+    color: rgb(121, 186, 233);
+    font-family: 'OpenSans',sans-serif;
+    font-size: 30px;
+    margin: 0px;
+    margin-right: 2%;
+}
+.relation{
+    width: 80%;
+    margin: 20px auto 0;
+}
+.relation h1{
+    color: #79bae9;
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 30px;
+    font-family: 'Playfair Display';
+    font-weight: normal;
+}
+.technique{
+    text-align: right;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.technique h2{
+    color: #79bae9;
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 30px;
+    font-family: 'Playfair Display';
+    font-weight: normal;
+}
+.illu1{
+    width: 200px;
+    height: 200px;
+    float: Right;
+    margin-top: -190px;
+}
+.illu2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: -300px;
+}
+.carousel-inner{
+    height: 400px;
+}
+.carousel-item{
+    height: 400px;
+}
+#carouselExampleCaptions h5{
+    color:white;
+    font-size: 30px;
+    font-family: 'Luckiest Guy',cursive;
+    background-color: black;
+}
+#carouselExampleCaptions p{
+    color:white;
+    font-size: 20px;
+    font-family: 'Baloo',cursive;
+    background-color: black;
+}
+.contact{
+    width: 400px;
+    height: 500px;
+    margin: 60px auto;   
+    text-align: center;
+    box-shadow: inset 0 0 1em white, 0 0 2em gray;
+}
+.fin{
+    height: 123px;
+    width: 123px;
+    border: 1px solid black;
+    border-radius: 60px;
+}
+.fin1{
+    height: 130px;
+    width: 150px;
+}
+.top{
+    margin: 30px 0px ;
+}
+.btnfin{
+    border-radius: 40px;
+    color: white;
+    background: linear-gradient(to bottom, #de3327, #c42b20);
+    margin: -20px auto 30px;
+    display: block;
+}
+.cv{
+    width: 30px;
+    height: 30px;
+}
+.accueillong{
+    background-image: url(Image/Powder\ Blue\ Winter\ Desktop\ Wallpaper1.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.coeur3{
+    padding-top: 50px;
+    text-align: center;
+}
+.coeur3 h4{
+    text-align: center;
+    margin: 0px;
+    font-size: 30px;
+    font-family: 'Luckiest Guy',cursive;
+}
+.img{
+    width: 100px;
+    margin: 20px 40px;
+}
+.slide-box-img
+{
+    position: relative;
+    top: 100px;
+}
+.slide-img
+{
+    width: 120px; 
+    float: left;
+}
+.slide-contents
+{
+    float: right;
+    width: 80%; 
+    font-family: 'Baloo',cursive; 
+    font-size: 15px; 
+    text-align: center;
+    margin-top: -35px;
+}
+.slide-txt-user
+{
+    width: 20%; 
+    height: 10%; 
+    text-align: center;
+    display:block; 
+    font-family: 'Fira Sans', sans-serif; 
+    margin-left: -10px; 
+    clear: both;
+}
+
+/* RESPONSIVE VIE */
+@media only screen and (max-width: 887px)
+{
+    .blue2{
+        background-image: none;
+        background-position: center;
+    }
+    .logo2
+    {
+        display: none;
+    }
+    .txt
+    {
+        width: 100%;
+    }
+    .slide-contents
+    {
+        float: none;
+        width: 100%;
+        margin-top: 60px;
+    }
+    .slide-img
+    {
+        float: none;
+        margin-left: -35px;
+    }
+    .slide-box-img
+    {
+        top: 10px;
+        left: 50%;
+        transform: translateX(-10%);
+    }
+    .slide-txt-user
+    {
+        height: 0;
+        margin-left: 40px;
+    }
+    .coeur{
+        margin: 0px auto;
+        width: 80%;
+        text-align: center;
+        display: flex;
+    }
+    .reco h3{
+        font-size: 25px;
+        font-family: 'Luckiest Guy',cursive;
+        margin:0px 60px; 
+    }
+}
+
+@media screen and (min-width: 887px) and (max-width: 1075px) 
+{
+    .blue2{
+        background-image: none;
+        background-position: center;
+    }
+    .logo2
+    {
+        display: none;
+    }
+    .txt
+    {
+        width: 100%;
+    }
+    .slide-contents
+    {
+        float: none;
+        width: 100%;
+        margin-top: 60px;
+    }
+    .slide-img
+    {
+        float: none;
+        margin-left: -35px;
+    }
+    .slide-box-img
+    {
+        top: 10px;
+        left: 50%;
+        transform: translateX(-10%);
+    }
+    .slide-txt-user
+    {
+        height: 0;
+        margin-left: 40px;
+    }
+    .coeur{
+        margin: 0px auto;
+        width: 80%;
+        text-align: center;
+        display: flex;
+    }
+    .reco h3{
+        font-size: 25px;
+        font-family: 'Luckiest Guy',cursive;
+        margin:0px 60px; 
+    }
+}
+
+@media only screen and (max-width:400px)
+{
+    .cont{
+        font-size: 10px;
+    }
+    .foot p{
+        font-size: 10px;
+    }
+    .logo3{
+        width: 100px;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width:506px)
+{
+    .relation h1{
+        font-size: 20px;
+    }
+    .relation p{
+        font-size: 15px;
+    }
+    .technique h2{
+        text-align: center;
+        font-size: 20px;
+    }
+    .technique p{
+        font-size: 15px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:967px)
+{
+    .illu1{
+        display:none;
+    }
+    .illu2{
+        display:none;
+    }
+    .technique{
+        width: 80%;
+        margin: 20px auto 0;
+        text-align: center;
+    }
+    .technique p{
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width:1244px)
+{
+    .ca{
+        margin-top: 20px;
+        float: initial;
+        margin-right: 0em;
+        margin-bottom: 10px;
+    }  
+    .forma{
+        height: initial;
+    }
+    .gigablock2{
+        text-align: center;
+    }  
+    .forma2{
+        text-align: center;
+        height: initial;
+    }
+    .forma2 h1{
+        margin-right: 0em;
+    }
+    .forma2 p{
+        margin-right: 0em;
+    }
+    .forma h1{
+        margin-left: 0em;
+    }
+    .forma i{
+        margin-left: 0em;
+    }
+    .forma h2{
+        margin-left: 0em;
+    }
+    .forma p{
+        margin-left: 0em;
+    }
+    .FD{
+        float: initial;
+        margin-top: 20px;
+        margin-left: 0em;
+        margin-bottom: 10px;
+    }
+    .forma2 h2{
+        margin-right: 0em;
+    }
+    .forma2 i{
+        margin-right: 0em;
+    }
+}
+
+@media only screen and (max-width:1381px)
+{
+   .finale{
+       text-align: center;
+   }
+   #pp{
+       margin-left: 0em;
+       margin-right: 0em;
+   }
+   .forma3 h4{
+       margin-left: 0em;
+   }
+   .forma3 h5{
+       margin-left: 0em;
+   }
+   .forma4 h4{
+       margin-right: 0em;
+   }
+   .forma4 h5{
+       margin-right: 0em;
+   }
+   .exp{
+    margin-top: 20px;
+    float: initial;
+    margin-right: 0em;
+    margin-bottom: 10px;
+   }
+   .exp1{
+    margin-top: 20px;
+    float: initial;
+    margin-left: 0em;
+    margin-bottom: 10px;
+   }
+   .forma3{
+       text-align: center;
+       height: initial;
+   }
+   .forma4{
+       text-align: center;
+       height: initial;
+   }
+   #oo{
+    margin-top: 20px;
+    float: initial;
+    margin-right: 0em;
+    margin-bottom: 10px;
+   }
+   #oo1{
+    margin-top: 20px;
+    float: initial;
+    margin-left: 0em;
+    margin-bottom: 10px;
+   }
+}
+@media only screen and (max-width:582px)
+{
+    .ca{
+        width: 90%;
+        height: 100%;
+    }
+    .FD{
+        width: 90%;
+        height: 100%;
+    }
+    .exp{
+        width: 90%;
+        height: 100%;
+    }
+    .exp1{
+        width: 90%;
+        height: 100%;
+    }
+    #oo{
+        width: 90%;
+        height: 100%;
+    }
+    #oo1{
+        width: 90%;
+        height: 50%;
+    }
+}
+
+@media only screen and (max-width:401px)
+{
+    .back{
+        height: 500px;
+    }
+}
+@media only screen and (max-width:290px)
+{
+    .back{
+        height: 570px;
+    }
+}
+@media only screen and (max-width:414px)
+{
+    .contact{
+        width: 50%;
+        height: initial;
+    }
+    .photo{
+        width: 50%;
+    }
+}
+@media screen and (min-width: 400px) and (max-width: 1075px) 
+{
+    .bot{
+        height: 170px;
+        background-color:black;
+    }
+}
+/* need help  ilyas */
+/* @media only screen and (max-width:1460px)
+{
+    #carouselExampleCaptions{
+        display:none;
+    }
+} */
