@@ -737,10 +737,12 @@ html, body {
         background-color:black;
     }
 }
-/* need help  ilyas */
-/* @media only screen and (max-width:1460px)
+@media only screen and (max-width:941px)
 {
-    #carouselExampleCaptions{
-        display:none;
-    }
-} */
+    .carousel-inner{
+    height: 170px;
+}
+.carousel-item{
+    height: 1700px;
+}
+}
