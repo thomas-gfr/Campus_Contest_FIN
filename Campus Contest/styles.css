@@ -337,6 +337,12 @@ html, body {
 .carousel-item{
     height: 400px;
 }
+#slide-inner{
+    height: 400px;
+}
+#slide-item{
+    height: 400px;
+}
 #carouselExampleCaptions h5{
     color:white;
     font-size: 30px;
@@ -737,12 +743,13 @@ html, body {
         background-color:black;
     }
 }
+
 @media only screen and (max-width:941px)
 {
-    .carousel-inner{
+    #slide-inner{
     height: 170px;
 }
-.carousel-item{
-    height: 1700px;
+    #slide-item{
+    height: 170px;
 }
 }
