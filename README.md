@@ -12,6 +12,7 @@ les fichiers a modifier sont :
 - recup_donnees_avis.php
 - recup_donnees.php
 - functions.php
+
 Une fois toute les étapes terminer le site sera fonctionnel avec toute les fonctionnalité réaliser.
 
 
